@@ -3,11 +3,13 @@
 
 <hr>
 
-A full description of the Androids Corpus can be found in the follwing paper:
+The Androids Corpus can be downloaded at the following link: <a href="https://www.dropbox.com/s/qi7a3bd7wo6kwim/Androids-Corpus.zip?dl=0">Androids Corpus</a>.
+
+A full description of the data can be found in the follwing paper:
 
 - F.Tao, A.Esposito and A.Vinciarelli, "The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection", Proceedings of Interspeech, 2023
 
-Please cite that paper if you use the Corpus in your work.
+Please cite the paper if you use the Corpus in your work.
 
 <hr>
 
