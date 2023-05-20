@@ -7,6 +7,10 @@ A full description of the Androids Corpus can be found in the follwing paper:
 
 - F.Tao, A.Esposito and A.Vinciarelli, "The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection", Proceedings of Interspeech, 2023
 
+Please cite that paper if you use the Corpus in your work.
+
+<hr>
+
 The Androids Corpus includes the following material:
 
 - Directory "Reading-Task": 112 audio files, 54 in the subdirectory "HC" (Healthy Controls) and 58 in the subdirectory "PT" (Patients);
