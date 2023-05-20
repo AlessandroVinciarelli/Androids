@@ -1,6 +1,8 @@
 # Androids
 Androids Corpus for Depression Detection
 
+<hr>
+
 A full description of the Androids Corpus can be found in the follwing paper:
 
 - F.Tao, A.Esposito and A.Vinciarelli, "The Androids Corpus: A New Publicly Available Benchmark for Speech Based Depression Detection", Proceedings of Interspeech, 2023
