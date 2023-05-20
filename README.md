@@ -1,6 +1,7 @@
 # Androids
 Androids Corpus for Depression Detection
 
+A full description of the Androids Corpus can be found 
 
 The Androids Corpus includes the following material:
 
@@ -20,8 +21,7 @@ The naming convention of the auduo files is as follows:
 nn_XGmm_t.wav
 
 where nn is a unique integer identifier such that, in a given group, files with the same nn contain the voice of the same speaker (there is a trailing 0 for numbers lower than 10), X is an alphabetic character corresponding to the speaker’s
-condition (P for depression patient and C for control), G is an alphabetic character that stands for the speaker’s gender (M for male and F for female), mm is a two-digits integer number corresponding to the speaker’s age, and t is an integer number between 1 and 4 accounting for the education level (1 corresponds
-to primary school and 4 corresponds to university). The letter X was used for the 2 participants who did not provide information about this aspect. There is no indication of the task because recordings corresponding to RT and IT are stored in different directories.
+condition (P for depression patient and C for control), G is an alphabetic character that stands for the speaker’s gender (M for male and F for female), mm is a two-digits integer number corresponding to the speaker’s age, and t is an integer number between 1 and 4 accounting for the education level (1 corresponds to primary school and 4 corresponds to university). The letter X was used for the 2 participants who did not provide information about this aspect. There is no indication of the task because recordings corresponding to RT and IT are stored in different directories.
 
 Please note that the identifier nn is unique within a group, meaning that the same identifier (e.g., 27) can be found in both depression and control groups. However, only one member of the group depression and only one member of the group control have the same identifier.
 
